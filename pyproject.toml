@@ -65,9 +65,9 @@ classifiers = [
 # encounter your project in the wild.
 
 [project.urls]
-repository = "https://github.com/freddyaboulton/gradio-webrtc"
-issues = "https://github.com/freddyaboulton/gradio-webrtc/issues"
-Documentation = "https://freddyaboulton.github.io/gradio-webrtc/cookbook/"
+repository = "https://github.com/freddyaboulton/fastrtc"
+issues = "https://github.com/freddyaboulton/fastrtc/issues"
+Documentation = "https://fastrtc.org/"
 
 [project.optional-dependencies]
 dev = ["build", "twine", "httpx", "pytest"]
